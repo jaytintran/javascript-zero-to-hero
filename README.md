@@ -9,8 +9,9 @@ Learning JavaScript is a great choice, not only because it's the most popular pr
 - Strings, functions, closures, and more. 
 - Array methods, numbers, dates, and timers.
 - Visual effects and components, such as lazy image loading, a tapped component, a slider. 
-- Constructor functions and ES6 classes. Object oriented programming. 
-- How to actually plan and structure a project. \
+- Constructor functions and ES6 classes. 
+- Object oriented programming. 
+- How to actually plan and structure a project.
 - Asynchronous JavaScript, which is used for things like loading data from external web servers with Ajax. 
 - How modern JavaScript applications are actually built using cutting edge technologies like NPM, Babel, Parcel and ES6 modules.
 - Deployment with Netlify in Git.
