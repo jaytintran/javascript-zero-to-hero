@@ -26,7 +26,7 @@ Learning JavaScript is a great choice, not only because it's the most popular pr
     </embed>
 </object>
 
-## Fundamentals
+## I. Fundamentals
 
 - Values & Variables
 - Data Types
@@ -52,3 +52,15 @@ Learning JavaScript is a great choice, not only because it's the most popular pr
 - Looping Arrays, Breaking and Continuing
 - Looping Backwards & Loops in Loops
 - The while Loop
+
+## II. DOM Manipulation
+
+`Project: Guess My Number Game`
+
+- DOM is a Document Object Model - a representation of HTML elements, allows JavaScript to access, manipulate and style them. Example we will be able to change the text, the CSS style, attributes of any elements in the website.
+
+## III. How JavaScript Works Behind The Scene
+
+`Project: None`
+
+-
