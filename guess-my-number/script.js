@@ -50,7 +50,7 @@ const startGame = function () {
 			// When player has no life left
 		} else if (lives == 0) {
 			displayMessage("‼ Game Over");
-			body.style.backgroundColor = "red";
+			body.style.backgroundColor = "re";
 		}
 	};
 	document.querySelector(".check").addEventListener("click", checkGuess);
